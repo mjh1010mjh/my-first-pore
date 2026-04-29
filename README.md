@@ -1,2 +1,3 @@
 # my-first-pore
 first
+print('과학 100\n'' 국어 89 \n'' 수학 100 \n ''영어 97')
